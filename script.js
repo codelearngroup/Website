@@ -6,6 +6,6 @@ var answer = 0;
 function add() {
   answer = num1parsed + num2parsed;
 }
-var answerpara = document.CreateElement("p");
+var answerpara = document.CreateElement("P");
 var answerstring = document.CreateTextNode(answer);
 answerpara.appendChild(answerstring);
