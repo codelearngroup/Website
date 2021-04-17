@@ -6,4 +6,4 @@ int answer = 0;
 function add() {
   answer = num1parsed + num2parsed;
 }
-str answerstring = document.CreateTextNode(answer);
+var answerstring = document.CreateTextNode(answer);
