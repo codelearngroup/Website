@@ -4,7 +4,9 @@
 
 ## Collaborators are:-
  >CoderTeam2, for motivationg me to create this
+ 
  >jsdisco ( on freecodecamp ) to help me whenever I had issues
+ 
  >Sky020 ( on freecodecamp ) to motivate me to try and help Me find My soulution myself.
  
 Thank You guys.
