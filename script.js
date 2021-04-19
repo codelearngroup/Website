@@ -1,11 +1,10 @@
-var numone = document.getElementById("btn01");
-var numtwo = document.getElementById("btn02");
+var numone = document.getElementById("input1").value;
+var numtwo = document.getElementById("input2").value;
 var num1parsed = parseInt(numone);
 var num2parsed = parseInt(numtwo);
 var answer = 0;
-function add() {
+function addition() {
   answer = num1parsed + num2parsed;
+  console.log(answer);
 }
-var answerpara = document.CreateElement("P");
-var answerstring = document.CreateTextNode(answer);
-answerpara.appendChild(answerstring);
+var answer1 = (document.getElementById("answer").innerHTML = answer);
