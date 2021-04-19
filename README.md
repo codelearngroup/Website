@@ -1,4 +1,6 @@
-# Website for online calculator
+# ONLINE CALCULATOR.
+
+### My first project involving Javascript. Written By Coderteam1
 
 ###### Already hosted. Website link is https://ccalci.netlify.app
 
