@@ -1,4 +1,4 @@
 body 
 {
-  background-color: repeating-linear-gradient(180deg, red, yellow, green, blue);
+  background-color: linear-gradient(180deg, red, yellow, green, blue);
 }
