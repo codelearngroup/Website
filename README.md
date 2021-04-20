@@ -2,7 +2,7 @@
 
 ### My first project involving Javascript. Written By Coderteam1
 
-###### Already hosted. Website link is https://ccalci.netlify.app
+###### Already hosted. Website link is https://calculatoring.netlify.app
 
 ## Collaborators are:-
  >CoderTeam2, for motivationg me to create this
